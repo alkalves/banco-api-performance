@@ -1,10 +1,10 @@
-# Testes de Performance com k6
+# Testes de performance do banco com k6
 
 ## 📝 Introdução
 
 Este repositório contém scripts e cenários de testes de performance
 desenvolvidos em **JavaScript** utilizando o **k6**, com o objetivo de
-avaliar e monitorar o desempenho da API. 
+avaliar e monitorar o desempenho da API do projeto [Banco API](https://github.com/juliodelimas/banco-api).
 
 ## 🧰 Tecnologias utilizadas
 
